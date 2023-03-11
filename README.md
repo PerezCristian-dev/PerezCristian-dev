@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 -------------
 
-* 🌍  I'm based in Rep Dominicana
+* 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [chrisperezps4@hotmail.com](mailto:chrisperezps4@hotmail.com)
 * 🧠  I'm expanding my knowledge on Angular and GraphQL.
 
