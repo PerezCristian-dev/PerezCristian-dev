@@ -4,7 +4,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-Stack Developer
 -------------
-
+* I am a highly skilled full stack
+developer and data analyst with 3
+years of experience in the software.
+I’m passionate about building
+innovative web applications and
+analyzing data to extract insights
+that drive business decisions. I have
+experience working with popular
+frameworks such as React, Next.js,
+Nest.js, and GraphQL. In addition to
+my deve lopment skills, I also have a
+strong background in data analysis,
+including proficiency in data
+cleaning, data visualization, and
+statistical analysis. I am adept at
+using tools such as Excel, Tableau,
+and Python libraries like Pandas and
+Matplotlib to ext ract insights from
+complex data sets and present them
+in a meaningful way.
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [chrisperezps4@hotmail.com](mailto:chrisperezps4@hotmail.com)
 * 🧠  I'm expanding my knowledge on Angular and GraphQL.
