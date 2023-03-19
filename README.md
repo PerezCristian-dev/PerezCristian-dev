@@ -14,7 +14,7 @@ that drive business decisions. I have
 experience working with popular
 frameworks such as React, Next.js,
 Nest.js, and GraphQL. In addition to
-my deve lopment skills, I also have a
+my development skills, I also have a
 strong background in data analysis,
 including proficiency in data
 cleaning, data visualization, and
