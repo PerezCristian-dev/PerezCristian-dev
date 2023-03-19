@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-Stack Developer
 -------------
-I am a highly skilled full stack
+<p>I am a highly skilled full stack
 developer and data analyst with 3
 years of experience in the software.
 I’m passionate about building
@@ -23,8 +23,8 @@ using tools such as Excel, Tableau,
 and Python libraries like Pandas and
 Matplotlib to ext ract insights from
 complex data sets and present them
-in a meaningful way.
--------------
+in a meaningful way.</p>
+
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [chrisperezps4@hotmail.com](mailto:chrisperezps4@hotmail.com)
 * 🧠  I'm expanding my knowledge on Angular and GraphQL.
