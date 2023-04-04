@@ -21,7 +21,7 @@ cleaning, data visualization, and
 statistical analysis. I am adept at
 using tools such as Excel, Tableau,
 and Python libraries like Pandas and
-Matplotlib to ext ract insights from
+Matplotlib to extract insights from
 complex data sets and present them
 in a meaningful way.</p>
 
