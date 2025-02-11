@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 -------------
 <p>I am a highly skilled full stack
-developer and data analyst with 4+
+developer and data analyst with 5+
 years of experience in the software.
 I’m passionate about building
 innovative web applications and
