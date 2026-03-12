@@ -42,8 +42,7 @@ What sets me apart is the combination of:
 
 - 🌍 Based in **Dominican Republic**
 - ✉️ Reach me at **[chrisperezps4@hotmail.com](mailto:chrisperezps4@hotmail.com)**
-- 🧠 Currently expanding my knowledge in **Angular, GraphQL, backend architecture, and scalable systems**
-
+  
 ---
 
 ## 🛠 Tech Stack
