@@ -65,7 +65,7 @@ What sets me apart is the combination of:
 ### Backend & APIs
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/200/nodejs.png" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/100/000000/express-js.png" width="40" height="40" alt="Express" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="hhttps://media.licdn.com/dms/image/v2/D4D12AQFV_d7tCs3kNA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1688457078232?e=2147483647&v=beta&t=vbM84PrdigtsAUY850AXL8LpvfRPXTEbSAXa3k41Hno" width="40" height="40" alt="Express" /></a>
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="40" height="40" alt="NestJS" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://graphql.org/img/brand/logos/logo.svg" width="40" height="40" alt="GraphQL" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" /></a>
